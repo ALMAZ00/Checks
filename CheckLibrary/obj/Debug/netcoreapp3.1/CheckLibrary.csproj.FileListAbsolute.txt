@@ -1,0 +1,17 @@
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.deps.json
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.dll
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.pdb
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.AssemblyInfoInputs.cache
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.AssemblyInfo.cs
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.dll
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\3 семестр\КУРСОВЫЕ И РГР\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.pdb
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.deps.json
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.dll
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\bin\Debug\netcoreapp3.1\CheckLibrary.pdb
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.AssemblyInfoInputs.cache
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.AssemblyInfo.cs
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.dll
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.pdb
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\ШАШКИ\CheckLibrary\obj\Debug\netcoreapp3.1\CheckLibrary.csprojAssemblyReference.cache

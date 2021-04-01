@@ -1,0 +1,4 @@
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\Checks\obj\Debug\MainWindow.g.cs
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\Checks\obj\Debug\App.g.cs
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\Checks\obj\Debug\Checks_MarkupCompile.cache
+C:\Users\Игорь Алмазов\OneDrive\Документы\Visual Studio 2019\УНИВЕР\5 семестр\Checks\obj\Debug\Checks_MarkupCompile.lref

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jc+Q1SMF/FlcPwMg2r4C786nHE7xHOyj0y+o6I+RXxQ8jz+QVekET5fp1sKSPo0+Ah0KIvrcAHU15yOl+UuFDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Игорь Алмазов\\OneDrive\\Документы\\Visual Studio 2019\\УНИВЕР\\5 семестр\\ШАШКИ\\CheckGame\\CheckGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Игорь Алмазов\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.3\\microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "C:\\Users\\Игорь Алмазов\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Игорь Алмазов\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

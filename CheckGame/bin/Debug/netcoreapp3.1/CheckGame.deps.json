@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CheckGame/1.0.0": {
+        "dependencies": {
+          "CheckLibrary": "1.0.0"
+        },
+        "runtime": {
+          "CheckGame.dll": {}
+        }
+      },
+      "CheckLibrary/1.0.0": {
+        "runtime": {
+          "CheckLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CheckGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CheckLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
