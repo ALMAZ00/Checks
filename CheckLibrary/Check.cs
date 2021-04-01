@@ -113,11 +113,11 @@ namespace CheckLibrary
         {
             bool haveEnemy = false;
 
-            for (int i = -1; i <= 1; i += 2)
+            for (int x = -1; x <= 1; x += 2)
             {
-                for (int j = -1; j <= 1; j += 2)
+                for (int y = -1; y <= 1; y += 2)
                 {
-                    haveEnemy = IsEnemyOn(i, j);
+                    haveEnemy = IsEnemyOn(x, y);
                     if (haveEnemy)
                     {
                         return haveEnemy;
