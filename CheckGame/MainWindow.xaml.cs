@@ -13,7 +13,6 @@ namespace CheckGame
     /// </summary>
     public partial class MainWindow : Window
     {
-        static private GameSettings gameSettings;
         static private TableDrawer tableDrawer;
         static private ManeGridDrawer maneGridDrawer;
         static private Game game;
@@ -26,10 +25,9 @@ namespace CheckGame
         }
         private void CreateNewGame()
         {
-            gameSettings = new GameSettings("gameSettings.txt");
             tableDrawer = new TableDrawer(gridTable);
             Factory = new DrawingFigureFactory();
-            game = new Game(gameSettings, tableDrawer, Factory);
+            game = new Game(tableDrawer, Factory);
             gameMover = new GameMover(game);
             maneGridDrawer = new ManeGridDrawer(maneGrid, game);            
         }

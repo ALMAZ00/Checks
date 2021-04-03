@@ -9,12 +9,10 @@ namespace CheckLibrary
     {
         internal Table Table { get; private set; }
         public WhoGo WhoGo { get; private set; }
-        internal GameSettings GameSettings { get; private set; }
         private ITableDrawer TableDrawer;
         private IDrawingFigureFactory factory;
-        public Game(GameSettings settings, ITableDrawer drawer, IDrawingFigureFactory factory)
-        {
-            SetSettings(settings);            
+        public Game(ITableDrawer drawer, IDrawingFigureFactory factory)
+        {            
             CreateTable();
             SetFactory(factory);
             SetTableDrawer(drawer);            
@@ -28,16 +26,6 @@ namespace CheckLibrary
             }
 
             this.factory = factory;
-        }
-
-        private void SetSettings(GameSettings settings)
-        {
-            if (settings == null)
-            {
-                throw new ArgumentNullException();
-            }
-
-            GameSettings = settings;
         }
         private void CreateTable()
         {
@@ -58,15 +46,6 @@ namespace CheckLibrary
             }
             TableDrawer = drawer;
             TableDrawer.SetGame(this);
-        }
-
-        public string[] GetPlayerNames()
-        {
-            return new string[] 
-            {
-                GameSettings.Name1, 
-                GameSettings.Name2
-            };
         }
         public List<IDrawingFigure> GetTableDrawingFigures()
         {
