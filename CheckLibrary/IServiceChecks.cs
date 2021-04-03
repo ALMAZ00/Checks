@@ -15,6 +15,9 @@ namespace CheckLibrary
         void Disconnect(int id);
 
         [OperationContract]
+        Game GetGame();
+
+        [OperationContract]
         void CreateGame(ITableDrawer drawer, IDrawingFigureFactory factory);
 
         [OperationContract]
@@ -28,10 +31,13 @@ namespace CheckLibrary
 
         [OperationContract]
         WinColor WhoWin();
+
+        [OperationContract(IsOneWay = true)]
+        void SendMessage(string msg, int id);
     }
     public interface IServerGameCallBack
     {
         [OperationContract(IsOneWay = true)]
-        void MsgCallback(string msg);
+        void MessageCallback(string msg);
     }
 }

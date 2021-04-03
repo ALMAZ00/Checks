@@ -18,17 +18,14 @@ namespace CheckGame
         {
             gridTable = grid;
         }
-        private Game Game;
         [NonSerialized]
         private readonly Grid gridTable;
+        private List<IDrawingFigure> drawingFigures;
 
-        public void DrawFieldFromTable()
+        public void DrawFieldFromTable(List<IDrawingFigure> drawingFig)
         {
+            drawingFigures = drawingFig;
             gridTable.Dispatcher.Invoke(() => DrawAll());            
-        }
-        public void SetGame(Game game)
-        {
-            Game = game;
         }
         private void DrawAll()
         {

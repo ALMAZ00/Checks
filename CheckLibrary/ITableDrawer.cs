@@ -9,6 +9,5 @@ namespace CheckLibrary
     public interface ITableDrawer
     {
         void DrawFieldFromTable();
-        void SetGame(Game game);
     }
 }

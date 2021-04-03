@@ -15,7 +15,6 @@ namespace CheckGame
     {
         static private TableDrawer tableDrawer;
         static private ManeGridDrawer maneGridDrawer;
-        static private Game game;
         static private GameMover gameMover;
         static private bool IsGameOver;
         static private DrawingFigureFactory Factory;
@@ -84,7 +83,7 @@ namespace CheckGame
         {
             if (e.Key == Key.Escape)
             {
-                tableDrawer.DrawFieldFromTable();
+                tableDrawer.DrawFieldFromTable(game.GetTableDrawingFigures());
             }
         }
     }

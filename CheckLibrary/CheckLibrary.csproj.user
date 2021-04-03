@@ -8,7 +8,7 @@
     <Compile Update="IServiceChecks.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="ServiceChecks.cs">
+    <Compile Update="Server\ServiceChecks.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
