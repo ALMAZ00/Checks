@@ -7,7 +7,7 @@ namespace ChecksHost
     {
         static void Main(string[] args)
         {
-            using (var host = new ServiceHost(typeof(CheckLibrary.Server.ServiceChecks)))
+            using (var host = new ServiceHost(typeof(Check)))
             {
                 host.Open();
                 Console.WriteLine("Хост стартовал!");
